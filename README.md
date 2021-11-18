@@ -45,15 +45,15 @@ To create a portfolio to show employers that I am a good candidate for the open 
 
 ## Challenges
 
-- LOREM
+- The app.js gave me the worst time because I forgot to put the return statement.
 
 ## Website
 
-- https://github.com/gadaell/react-portfolio
+- https://gadaell.github.io/react-portfolio_II/
 
 ## Screenshot
 
-- Lorem
+-![Screenshot](src/assets/header/screenshot.PNG)
 
 ## Contact
 
