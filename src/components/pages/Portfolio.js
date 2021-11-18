@@ -1,11 +1,11 @@
 import React from "react";
-import sparkleImage from "../../assets/projects/sparkle.PNG";
-import passwordImage from "../../assets/projects/password-manager.PNG";
-import recipeImage from "../../assets/projects/recipesesame.PNG";
-import codeImage from "../../assets/projects/code-quiz.PNG";
-import noteImage from "../../assets/projects/note-taker.PNG";
-import bloggerImage from "../../assets/projects/tech-blogger.PNG";
-import weatherImage from "../../assets/projects/weather-dashboard.PNG";
+import sparkleImage from "../../assets/projects/sparkle.JPG";
+import passwordImage from "../../assets/projects/password-manager.JPG";
+import recipeImage from "../../assets/projects/recipesesame.JPG";
+import codeImage from "../../assets/projects/code-quiz.JPG";
+import noteImage from "../../assets/projects/note-taker.JPG";
+import bloggerImage from "../../assets/projects/tech-blogger.JPG";
+import weatherImage from "../../assets/projects/weather-dashboard.JPG";
 import workforceImage from "../../assets/projects/workforce.JPG";
 
 function Portfolio() {
