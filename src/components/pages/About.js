@@ -1,5 +1,5 @@
 import React from "react";
-
+import selfImage from "../../assets/header/portfolio.JPG";
 function About() {
   return (
     <section className="my-5 background-img">
@@ -7,6 +7,7 @@ function About() {
         <h1 id="about">About Me</h1>
         <div className="row justify-content-center">
           <a href="https://github.com/gadaell"></a>
+          <img className="img-fluid" src={selfImage} alt="A'D Ellis" />
           <p className="m-4 about-txt">
             Salutations, my name is A'Darius Ellis, but everyone knows me as
             A'D. I attended the University of Memphis for my undergraduate
