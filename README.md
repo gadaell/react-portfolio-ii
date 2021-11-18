@@ -49,7 +49,7 @@ To create a portfolio to show employers that I am a good candidate for the open 
 
 ## Website
 
-- https://gadaell.github.io/react-portfolio_II/
+- https://gadaell.github.io/react-portfolio-ii/#about
 
 ## Screenshot
 
