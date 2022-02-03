@@ -10,10 +10,10 @@ import workforceImage from "../../assets/projects/workforce.JPG";
 
 function Portfolio() {
   return (
-    <section className="my-5 background-img">
+    <section className="my-6 background-img">
       <h1 id="about">Projects I Currently Completed</h1>
       <div className="container">
-        <div className="card mb-3">
+        <div className="card mb-5">
           <a href="https://sparkle-safe.herokuapp.com/">
             <img
               src={sparkleImage}

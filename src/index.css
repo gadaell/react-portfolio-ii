@@ -36,7 +36,7 @@ code {
 * {
   box-sizing: border-box;
 }
-/* body {
+body {
   background-color: var(--dark);
   margin: 0;
   padding: 0;
@@ -44,7 +44,7 @@ code {
   font-weight: 300;
   line-height: 1.5;
   font-size: 16px;
-} */
+}
 .light-txt {
   font-family: "Zen Kaku Gothic Antique", sans-serif;
   font-weight: 300;
@@ -59,4 +59,27 @@ code {
   font-family: "IBM Plex Serif", serif;
   font-size: larger;
   font-weight: bold;
+}
+
+.header-img {
+  background-image: url("./assets/header/headerimg.JPG");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  opacity: 0.8;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  margin: 1px;
+}
+.background-img {
+  background-image: url("./assets/header/background-img.JPG");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  opacity: 0.8;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  margin: 1px;
 }
