@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-ii/static/css/main.af16616c.chunk.css",
+    "main.js": "/react-portfolio-ii/static/js/main.a54b8e43.chunk.js",
+    "main.js.map": "/react-portfolio-ii/static/js/main.a54b8e43.chunk.js.map",
+    "runtime-main.js": "/react-portfolio-ii/static/js/runtime-main.48dc5b6c.js",
+    "runtime-main.js.map": "/react-portfolio-ii/static/js/runtime-main.48dc5b6c.js.map",
+    "static/js/2.abf18183.chunk.js": "/react-portfolio-ii/static/js/2.abf18183.chunk.js",
+    "static/js/2.abf18183.chunk.js.map": "/react-portfolio-ii/static/js/2.abf18183.chunk.js.map",
+    "static/js/3.2d9dab2b.chunk.js": "/react-portfolio-ii/static/js/3.2d9dab2b.chunk.js",
+    "static/js/3.2d9dab2b.chunk.js.map": "/react-portfolio-ii/static/js/3.2d9dab2b.chunk.js.map",
+    "index.html": "/react-portfolio-ii/index.html",
+    "static/css/main.af16616c.chunk.css.map": "/react-portfolio-ii/static/css/main.af16616c.chunk.css.map",
+    "static/js/2.abf18183.chunk.js.LICENSE.txt": "/react-portfolio-ii/static/js/2.abf18183.chunk.js.LICENSE.txt",
+    "static/media/aellis-resume.dab425d4.docx": "/react-portfolio-ii/static/media/aellis-resume.dab425d4.docx",
+    "static/media/index.css": "/react-portfolio-ii/static/media/headerimg.c4bb5a24.JPG",
+    "static/media/code-quiz.caf6c568.JPG": "/react-portfolio-ii/static/media/code-quiz.caf6c568.JPG",
+    "static/media/note-taker.1717934d.JPG": "/react-portfolio-ii/static/media/note-taker.1717934d.JPG",
+    "static/media/password-manager.6419a464.JPG": "/react-portfolio-ii/static/media/password-manager.6419a464.JPG",
+    "static/media/portfolio.c36263cc.JPG": "/react-portfolio-ii/static/media/portfolio.c36263cc.JPG",
+    "static/media/recipesesame.5c28dc20.JPG": "/react-portfolio-ii/static/media/recipesesame.5c28dc20.JPG",
+    "static/media/sparkle.3b62c3f6.JPG": "/react-portfolio-ii/static/media/sparkle.3b62c3f6.JPG",
+    "static/media/tech-blogger.73b134e7.JPG": "/react-portfolio-ii/static/media/tech-blogger.73b134e7.JPG",
+    "static/media/weather-dashboard.61398413.JPG": "/react-portfolio-ii/static/media/weather-dashboard.61398413.JPG",
+    "static/media/workforce.ddcd0a26.JPG": "/react-portfolio-ii/static/media/workforce.ddcd0a26.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48dc5b6c.js",
+    "static/js/2.abf18183.chunk.js",
+    "static/css/main.af16616c.chunk.css",
+    "static/js/main.a54b8e43.chunk.js"
+  ]
+}
